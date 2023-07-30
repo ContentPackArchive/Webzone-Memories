@@ -14,4 +14,4 @@ In order to download the original multifile(s), click on the "releases" tab to d
 cynicalsix
 
 # Takedown/Information Request
-Please contact zachary#5939 on Discord
+Please contact @uglycorny on Discord
